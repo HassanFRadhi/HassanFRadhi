@@ -1,4 +1,7 @@
-## Hi there 👋
+## Oil & Gas Engineering Student | Data Scientist | passionate about Reservoir Engineering 📊📉
+I'm developing my skills to be able to derive reservoir insights from raw field data using modern data science techniques.<br>
+Currently learning Reservoir Engineering, Numerical Methods, and Data Analytics.<br>
+My Toolkit: Jupyter Notebook, Python, Tableau, spreadsheets.
 
 <!--
 **HassanFRadhi/HassanFRadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
