@@ -1,8 +1,14 @@
-## Oil & Gas Engineering Student | Data Scientist | passionate about Reservoir Engineering 📊📉
-I'm developing my skills to be able to derive reservoir insights from raw field data using modern data science techniques.<br>
-Currently learning Reservoir Engineering, Numerical Methods, and Data Analytics.<br>
-My Toolkit: Jupyter Notebook, Python, Tableau, spreadsheets.
+# Welcome to My Portfolio 📊📉
+Welcome! I'm Hassan Fahd, this portfolio is a collection of my projects in Engineering, Scientific Computing, Data Science and Machine Learning.
 
+## What You'll Find Here 
+Each project is designed as a complete case study including:
+- **Notebooks:** the technical analysis, experiments, and implementation.
+- **Workflow Documents:** the methodology, reasoning, and assumptions behind each stage.
+- **Executive Summaries:** key findings and practical insights.
+
+### Feel free to explore the repositories and follow the documentation from problem definition through the final results.
+Thank you for visiting.
 <!--
 **HassanFRadhi/HassanFRadhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
