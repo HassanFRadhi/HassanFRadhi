@@ -3,8 +3,7 @@ Welcome! I'm Hassan Fahd, this portfolio is a collection of my projects in Engin
 
 ## What You'll Find Here 
 Each project is designed as a complete case study including:
-- **Notebooks:** the technical analysis, experiments, and implementation.
-- **Workflow Documents:** the methodology, reasoning, and assumptions behind each stage.
+- **Notebooks:** the technical analysis, experiments, and implementation. With the methodology, reasoning, and assumptions behind each stage.
 - **Executive Summaries:** key findings and practical insights.
 
 ### Feel free to explore the repositories and follow the documentation from problem definition through the final results.
